@@ -9,3 +9,7 @@ MAX 10 FPGA and STM32F407 uController. The choice of FPGA is based on the packag
 of uController is based on the existance of a FSMC memory interface which will be used for communication with the ND-10/S through the 
 FPGA and also the built in SDIO interface for use with SD cards.
 
+[Google sheets with a breakdown of what is needed](https://docs.google.com/spreadsheets/d/1l8-pKSYi23ccKBfvMu0RAD9oF7giuxZcgCLQ8qeqaIM/edit?usp=sharing)
+
+
+
